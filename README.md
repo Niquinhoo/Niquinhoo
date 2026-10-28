@@ -2,7 +2,7 @@
   <img src="banner.svg" alt="Niquinhoo — Full Stack Developer" width="100%" />
 </div>
 
-<h1 align="center">Hola, soy Nicolás Triberti <code>(Niquinhoo)</code></h1>
+<h1 align="center">Hola, soy Nicolás Triberti<br /><sub>Niquinhoo</sub></h1>
 
 <p align="center">
   Desarrollador Full Stack de Argentina, estudiante avanzado de Programación Universitaria de Sistemas, con 2+ años de experiencia y foco en backend, infraestructura cloud y automatización.
@@ -24,7 +24,7 @@ Construyo soluciones completas para entornos reales: diseño APIs, integro servi
 
 SaaS de gestión de turnos por WhatsApp. Desarrollé e integré su API, procesos automatizados y servicios de IA, con despliegues en Docker. Sus agentes han procesado **más de 1.000 turnos de manera agéntica**.
 
-`Node.js` · `Express` · `MySQL / TiDB` · `WhatsApp Business API` · `LangGraph` · `LangChain` · `React` · `Docker`
+Node.js · Express · MySQL / TiDB · WhatsApp Business API · LangGraph · LangChain · React · Docker
 
 ## Tecnologías
 
