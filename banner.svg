@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396" role="img" aria-labelledby="title desc">
+  <title id="title">Niquinhoo — Full Stack Developer</title>
+  <desc id="desc">Banner marfil con acento rojo, retícula técnica y el nombre Nicolás Triberti.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#111111" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FBFBFA"/>
+      <stop offset="1" stop-color="#F2F2F0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1584" height="396" fill="url(#fade)"/>
+  <rect width="1584" height="396" fill="url(#grid)"/>
+  <path d="M0 345H1584" stroke="#111111" stroke-opacity=".12"/>
+  <path d="M72 0V396M1512 0V396" stroke="#111111" stroke-opacity=".08"/>
+  <circle cx="1322" cy="187" r="135" fill="none" stroke="#D90429" stroke-opacity=".12" stroke-width="1"/>
+  <circle cx="1322" cy="187" r="101" fill="none" stroke="#D90429" stroke-opacity=".2" stroke-width="1"/>
+  <circle cx="1322" cy="187" r="66" fill="#FDEBEC" stroke="#D90429" stroke-opacity=".35" stroke-width="1"/>
+  <circle cx="1322" cy="187" r="7" fill="#D90429"/>
+  <path d="M1187 187h-48m318 0h-48M1322 52v-32m0 334v-32" stroke="#D90429" stroke-opacity=".35" stroke-width="1"/>
+  <circle cx="1139" cy="187" r="3" fill="#D90429"/>
+  <circle cx="1457" cy="187" r="3" fill="#D90429"/>
+  <text x="112" y="108" fill="#D90429" font-family="monospace, sans-serif" font-size="16" letter-spacing="4">FULL STACK DEVELOPER · ARGENTINA</text>
+  <text x="106" y="226" fill="#111111" font-family="Georgia, 'Times New Roman', serif" font-size="92" letter-spacing="-3">Nicolás <tspan fill="#D90429" font-style="italic">Triberti</tspan></text>
+  <path d="M112 260h74" stroke="#D90429" stroke-width="2"/>
+  <text x="112" y="305" fill="#787774" font-family="monospace, sans-serif" font-size="16" letter-spacing="2">BACKEND  /  CLOUD  /  DEVOPS  /  AUTOMATION</text>
+  <text x="1470" y="370" text-anchor="end" fill="#787774" font-family="monospace, sans-serif" font-size="13" letter-spacing="2">NIQUINHOO</text>
+</svg>
