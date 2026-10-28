@@ -16,8 +16,12 @@
 
 <p align="center">
   <a href="https://niquinhoo.github.io/FNT-PortFolio/#work">
-    <img src="portfolio-projects-button.svg" alt="Ver todos los proyectos en mi portfolio" width="560" />
+    <img src="portfolio-projects-button.svg" alt="Ver proyectos" width="300" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/D90429/Niquinhoo" alt="Calendario anual de contribuciones de GitHub de Niquinhoo" width="100%" />
 </p>
 
 ## Sobre mí
@@ -32,13 +36,12 @@ SaaS de gestión de turnos por WhatsApp. Desarrollé e integré su API, procesos
 
 Node.js · Express · MySQL / TiDB · WhatsApp Business API · LangGraph · LangChain · React · Docker
 
-<p align="center">
-  <img src="images/citax-landing.png" alt="Landing de Citax: agenda automatizada por WhatsApp" width="100%" />
-</p>
-
-<p align="center">
-  <img src="images/citax-features.png" alt="Sección de funcionalidades de la landing de Citax" width="100%" />
-</p>
+<table>
+  <tr>
+    <td width="50%"><img src="images/citax-landing.png" alt="Landing de Citax: agenda automatizada por WhatsApp" width="100%" /></td>
+    <td width="50%"><img src="images/citax-features.png" alt="Sección de funcionalidades de la landing de Citax" width="100%" /></td>
+  </tr>
+</table>
 
 ## Tecnologías
 
