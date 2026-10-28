@@ -2,7 +2,7 @@
   <img src="banner-profile.svg" alt="Niquinhoo — Full Stack Developer" width="100%" />
 </div>
 
-<h1 align="center">Hola, soy Nicolás Triberti<br /><sub>Niquinhoo</sub></h1>
+<h1 align="center">Hola, soy Nicolás Triberti<br /></h1>
 
 <p align="center">
   Desarrollador Full Stack de Argentina, estudiante avanzado de Programación Universitaria de Sistemas, con 2+ años de experiencia y foco en backend, infraestructura cloud y automatización.
