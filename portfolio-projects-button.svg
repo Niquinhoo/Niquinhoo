@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="88" viewBox="0 0 560 88" role="img" aria-labelledby="title">
+  <title id="title">Ver todos los proyectos</title>
+  <rect x="1" y="1" width="558" height="86" rx="16" fill="#D90429" />
+  <rect x="1" y="1" width="558" height="86" rx="16" fill="none" stroke="#101b35" stroke-opacity=".25" stroke-width="2" />
+  <text x="28" y="54" fill="#fff" font-family="Arial, sans-serif" font-size="27" font-weight="700">Ver todos los proyectos →</text>
+</svg>

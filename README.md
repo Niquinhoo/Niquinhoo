@@ -14,6 +14,12 @@
   <a href="https://www.linkedin.com/in/nicolas-triberti-224651247/">linkedin.com/in/nicolastriberti</a>
 </p>
 
+<p align="center">
+  <a href="https://niquinhoo.github.io/FNT-PortFolio/#work">
+    <img src="portfolio-projects-button.svg" alt="Ver todos los proyectos en mi portfolio" width="560" />
+  </a>
+</p>
+
 ## Sobre mí
 
 Construyo soluciones completas para entornos reales: diseño APIs, integro servicios, modelo datos y preparo despliegues confiables. También desarrollo flujos agénticos para automatizar tareas de negocio.
@@ -25,6 +31,14 @@ Construyo soluciones completas para entornos reales: diseño APIs, integro servi
 SaaS de gestión de turnos por WhatsApp. Desarrollé e integré su API, procesos automatizados y servicios de IA, con despliegues en Docker. Sus agentes han procesado **más de 1.000 turnos de manera agéntica**.
 
 Node.js · Express · MySQL / TiDB · WhatsApp Business API · LangGraph · LangChain · React · Docker
+
+<p align="center">
+  <img src="images/citax-landing.png" alt="Landing de Citax: agenda automatizada por WhatsApp" width="100%" />
+</p>
+
+<p align="center">
+  <img src="images/citax-features.png" alt="Sección de funcionalidades de la landing de Citax" width="100%" />
+</p>
 
 ## Tecnologías
 
