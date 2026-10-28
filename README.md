@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://niquinhoo.github.io/FNT-PortFolio/#work">
-    <img src="portfolio-projects-button.svg" alt="Ver proyectos" width="300" />
+    <img src="portfolio-projects-button-compact.svg" alt="Ver proyectos" width="300" />
   </a>
 </p>
 
