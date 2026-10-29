@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Niquinhoo/Niquinhoo/172a6ae379be83c2516550752a610bf0d8b2aa3d/banner-profile.svg" alt="Nicolás Triberti — Full Stack Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/Niquinhoo/Niquinhoo/a4b9a81ac8ce1d7d78cc1279049185c4161e6988/banner-profile.svg" alt="Nicolás Triberti — Full Stack Developer" width="100%" />
 </div>
 
 <h1 align="center">Hi, I'm Nicolás Triberti<br /></h1>
