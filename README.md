@@ -1,15 +1,15 @@
 <p align="center">
-  <strong>Español</strong> · <a href="README.en.md">English</a>
+  <strong>English</strong> · <a href="README.es.md">Español</a>
 </p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Niquinhoo/Niquinhoo/172a6ae379be83c2516550752a610bf0d8b2aa3d/banner-profile.svg" alt="Nicolás Triberti — Full Stack Developer" width="100%" />
 </div>
 
-<h1 align="center">Hola, soy Nicolás Triberti<br /></h1>
+<h1 align="center">Hi, I'm Nicolás Triberti<br /></h1>
 
 <p align="center">
-  Desarrollador Full Stack de Argentina, estudiante avanzado de Programación Universitaria de Sistemas, con 2+ años de experiencia y foco en backend, infraestructura cloud y automatización.
+  Full Stack Developer based in Argentina, currently in the advanced stages of a university Systems Programming program, with 2+ years of experience focused on backend development, cloud infrastructure, and automation.
 </p>
 
 <p align="center">
@@ -20,53 +20,53 @@
 
 <p align="center">
   <a href="https://niquinhoo.github.io/FNT-PortFolio/#work">
-    <img src="portfolio-projects-button-compact.svg" alt="Ver proyectos" width="300" />
+    <img src="portfolio-projects-button-compact.en.svg" alt="View projects" width="300" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/D90429/Niquinhoo" alt="Calendario anual de contribuciones de GitHub de Niquinhoo" width="100%" />
+  <img src="https://ghchart.rshah.org/D90429/Niquinhoo" alt="Niquinhoo's annual GitHub contribution calendar" width="100%" />
 </p>
 
-## Sobre mí
+## About me
 
-Construyo soluciones completas para entornos reales: diseño APIs, integro servicios, modelo datos y preparo despliegues confiables. También desarrollo flujos agénticos para automatizar tareas de negocio.
+I build complete solutions for real-world use: designing APIs, integrating services, modeling data, and preparing reliable deployments. I also develop agentic workflows to automate business tasks.
 
-## Proyecto destacado
+## Featured project
 
 ### [Citax](https://www.citax.com.ar/)
 
-SaaS de gestión de turnos por WhatsApp. Desarrollé e integré su API, procesos automatizados y servicios de IA, con despliegues en Docker. Sus agentes han procesado **más de 1.000 turnos de manera agéntica**.
+A SaaS platform for managing appointments through WhatsApp. I developed and integrated its API, automated processes, and AI services, with Docker deployments. Its agents have processed **over 1,000 appointments autonomously**.
 
 Node.js · Express · MySQL / TiDB · WhatsApp Business API · LangGraph · LangChain · React · Docker
 
 <table>
   <tr>
-    <td width="50%"><img src="images/citax-landing.png" alt="Landing de Citax: agenda automatizada por WhatsApp" width="100%" /></td>
-    <td width="50%"><img src="images/citax-features.png" alt="Sección de funcionalidades de la landing de Citax" width="100%" /></td>
+    <td width="50%"><img src="images/citax-landing.png" alt="Citax landing page: automated appointment scheduling through WhatsApp" width="100%" /></td>
+    <td width="50%"><img src="images/citax-features.png" alt="Features section of the Citax landing page" width="100%" /></td>
   </tr>
 </table>
 
-## Tecnologías
+## Technologies
 
-**Backend y datos**  
-TypeScript · JavaScript · Python · Rust · Java Spring · APIs REST · Prisma · PostgreSQL · MySQL · TiDB · Cloudflare D1
+**Backend & data**  
+TypeScript · JavaScript · Python · Rust · Java Spring · REST APIs · Prisma · PostgreSQL · MySQL · TiDB · Cloudflare D1
 
-**Cloud e infraestructura**  
- Docker · Linux · AWS EC2 / S3 · VULTR Cloud Compute · Oracle OCI · Google Compute Engine VM's · Cloudflare Workers / R2 
+**Cloud & infrastructure**  
+Docker · Linux · AWS EC2 / S3 · VULTR Cloud Compute · Oracle OCI · Google Compute Engine VMs · Cloudflare Workers / R2
 
-**DevOps y calidad**  
-Git · GitHub Actions · CI/CD · Testing · Linting · Observabilidad ·  
+**DevOps & quality**  
+Git · GitHub Actions · CI/CD · Testing · Linting · Observability
 
-**Automatización e IA**  
-hatsApp APIs · Cloud/Embedded LLMs · Automatizaciones · Webhooks 
+**Automation & AI**  
+WhatsApp APIs · Cloud / embedded LLMs · Automations · Webhooks
 
 **Frontend**  
 React · React Native · Vite · Tailwind CSS · GSAP
 
-**Integraciones y visualización**  
+**Integrations & visualization**  
 Mercado Pago · Gmail · Google Earth
 
 ---
 
-<p align="center"><i>Desarrollando soluciones completas para entornos reales.</i></p>
+<p align="center"><i>Building complete solutions for real-world use.</i></p>
