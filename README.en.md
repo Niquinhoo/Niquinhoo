@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="README.md">Español</a> · <strong>English</strong>
+  <strong>English</strong> · <a href="README.es.md">Español</a>
 </p>
 
 <div align="center">
