@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner-profile.svg" alt="Niquinhoo — Full Stack Developer" width="100%" />
+  <img src="banner-profile.svg?v=2" alt="Nicolás Triberti — Full Stack Developer" width="100%" />
 </div>
 
 <h1 align="center">Hola, soy Nicolás Triberti<br /></h1>
