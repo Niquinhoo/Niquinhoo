@@ -46,22 +46,22 @@ Node.js · Express · MySQL / TiDB · WhatsApp Business API · LangGraph · Lang
 ## Tecnologías
 
 **Backend y datos**  
-Node.js · TypeScript · JavaScript · Express · APIs REST · Prisma · PostgreSQL · MySQL · TiDB · Cloudflare D1
+TypeScript · JavaScript · Python · Rust · Java Spring · APIs REST · Prisma · PostgreSQL · MySQL · TiDB · Cloudflare D1
 
 **Cloud e infraestructura**  
-Cloudflare Workers · Cloudflare R2 · Docker · Linux · AWS EC2 / S3 · VULTR Cloud Compute · Oracle OCI
+ Docker · Linux · AWS EC2 / S3 · VULTR Cloud Compute · Oracle OCI · Google Compute Engine VM's · Cloudflare Workers / R2 
 
 **DevOps y calidad**  
-Git · GitHub Actions · CI/CD · Testing · Linting · Observabilidad
+Git · GitHub Actions · CI/CD · Testing · Linting · Observabilidad ·  
 
 **Automatización e IA**  
-Webhooks · WhatsApp APIs · Modelos de IA · Automatizaciones
+hatsApp APIs · Cloud/Embedded LLMs · Automatizaciones · Webhooks 
 
 **Frontend**  
 React · React Native · Vite · Tailwind CSS · GSAP
 
 **Integraciones y visualización**  
-Mercado Pago · Google Earth
+Mercado Pago · Gmail · Google Earth
 
 ---
 
