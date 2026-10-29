@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
   <title id="title">Nicolás Triberti — Full Stack Developer</title>
-  <desc id="desc">Nicolás Triberti: Backend, Cloud y Automatization. Una órbita y pulsos suaves representan ciclos de automatización.</desc>
+  <desc id="desc">Nicolás Triberti: Backend, Cloud y Automation. Una órbita y pulsos suaves representan ciclos de automatización.</desc>
   <style>
     .orbit { animation: orbit 24s linear infinite; }
     .pulse { animation: pulse 6s ease-out infinite; }
@@ -53,5 +53,5 @@
   <text x="96" y="174" fill="#D90429" font-family="monospace, sans-serif" font-size="30" letter-spacing="4">FULL STACK DEVELOPER · ARGENTINA</text>
   <text x="92" y="340" fill="#111111" font-family="Georgia, 'Times New Roman', serif" font-size="100" letter-spacing="-3">Nicolás <tspan fill="#D90429" font-style="italic">Triberti</tspan></text>
   <path d="M96 394h92" stroke="#D90429" stroke-width="3"/>
-  <text x="96" y="476" fill="#787774" font-family="monospace, sans-serif" font-size="32" letter-spacing="2">BACKEND / CLOUD / AUTOMATIZATION</text>
+  <text x="96" y="476" fill="#787774" font-family="monospace, sans-serif" font-size="32" letter-spacing="2">BACKEND / CLOUD / AUTOMATION</text>
 </svg>
